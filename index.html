@@ -32,6 +32,17 @@
             <div id="current">1</div>
             <button id="next" class="pagination-button" onclick="nextPage()">Next</button>
         </div>
+        <div class="comment-section">
+            <h4>Comments</h4>
+            <div class="comment-form">
+                <input type="text" id="name" placeholder="Your name"/>
+                <textarea id="comment" placeholder="Leave a comment"></textarea>
+                <button onclick="addComment()">Add Comment</button>
+            </div>
+            <div id="comments">
+                <h4>Previous Comments</h4>
+            </div>
+        </div>
     </main>
     <footer>
         <div class="share">

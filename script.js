@@ -340,3 +340,17 @@ function scrollToTop() {
         behavior: 'smooth'
     });
 }
+
+function addComment(){
+    console.log("Commented")
+    let name = document.getElementById("name").value;
+    let comment = document.getElementById("comment").value;
+
+    if(name && comment){
+        let commentDiv = document.createElement("div");
+        commentDiv.innerHTML = "<p><strong>"+name+"</strong></p><p>"+comment+"</p>";
+        document.getElementById("comments").appendChild(commentDiv);
+        document.getElementById("name").value="";
+        document.getElementById("comment").value="";
+    }
+}

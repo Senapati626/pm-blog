@@ -147,7 +147,48 @@ footer {
   flex-direction: column;
   justify-content: center;
 }
-
+.comment-section{
+  margin: 2em 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  max-width: 500px;
+}
+.comment-section h4{
+  font-size: 18px;
+  color: #8b1003;
+}
+.comment-form{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.comment-form input[type="text"],textarea{
+  padding: 5px 10px;
+  resize: none;
+  font-family: inherit;
+}
+textarea{
+  height: 100px;
+}
+#comments{
+  font-size: 14px;
+}
+#comments div{
+  margin: 1em 0;
+}
+#comments div p{
+  font-size: 14px;
+}
+.comment-form button{
+  background-color: #252424;
+  color: #e0e0e0;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+}
 @media only screen and (max-width: 600px) {
   h1 {
     font-size: 24px;
