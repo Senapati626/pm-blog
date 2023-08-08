@@ -1,132 +1,171 @@
-let blogContent = [`<h3>Introduction</h3>
-<p>Project management efforts must be successfully led in order to succeed. By offering concise goals and
-    orientation, inspiring and involving team members, and skillfully risk management and problem-solving,
-    effective management prepares team members for success. In order to better understand how leadership
-    affects project management success, this paper uses case studies from businesses like Apple, Tesla,
-    Google, and SpaceX (Martins, 2022).</p>
-<p>
-    The significance of goals and objectives is the first topic tackled. A project's goals and objectives
-    are established by strong leaders, who then communicate effectively them to the team and direct
-    everyone's efforts towards a single goal. Examples from companies like Apple and Tesla demonstrate how
-    innovative managers like the late Steve Jobs and Elon Musk establish challenging goals and motivate
-    their staff to produce outstanding results.</p>
-<p>
-    The second part is concerned with team involvement and commitment. Successful managers of teams build a
-    supportive work atmosphere that encourages cooperation, ownership, and accountability by being aware of
-    the team members' abilities and shortcomings. Good team motivating techniques are used by businesses
-    like Google and L'Oréal, which boost output and profitability (Tannenbaum & Salas, 2020).</p>
-<p>
-    The third component examines the function of management in risk control and issue resolution. To
-    guarantee project success, skilled leaders foresee potential risks, create backup plans, and handle
-    tricky situations. Under Elon Musk's direction, SpaceX exhibits outstanding risk administration and
-    problem-solving skills in the space sector.</p>
-<p>
-    This research emphasises the value of solid management in managing projects by examining these factors.
-    Organisations that prioritise leadership development and put effective policies into place can help
-    their teams reach their maximum potential, leading to successful project outputs and success in the
-    marketplace.
-</p>
+// Blog content stored in the blogContent variable in an array format.
 
-<h3>Vision and Direction</h3>
-<p>By establishing an unambiguous goal and direction for the project, leadership plays an essential part in
-    project management success. The overarching project goals and objectives are established by a competent
-    leader, who also effectively conveys them to the project team. This unity of purpose ensures that all
-    team members contribute towards the same objective and helps to align their efforts. Without effective
-    leadership, projects may become disorganised, lack direction, and struggle to produce the desired
-    results (Project-Management.com, 2023).</p>
-<p>
-    Leadership is crucial to the success of project management because it establishes a clear vision and
-    course for the undertaking. The overarching project goals and objectives are established by a competent
-    leader, who also effectively conveys for them to the project's team. This unity of purpose ensures that
-    all team members contribute towards the same objective and helps to align their efforts. Without
-    effective leadership, organisations can grow disorganised, lack orientation, and struggle to produce the
-    desired results.</p>
-<p>
-    Apple Inc. is one instance of a business that has displayed good leadership in project management. Apple
-    started working on the iPhone under Steve Jobs' direction, and the device completely changed the mobile
-    phone market. Jobs had a distinct vision for a device that merged a mobile phone, musical player, and
-    internet-connected device into a beautiful and simple-to-use one. The project team's efforts were
-    directed by this vision in the aim of developing a groundbreaking technology (How Apple is organized for
-    Innovation, 2023).</p>
-<p>
-    The figures demonstrate the iPhone's popularity. Apple is selling over 2.2 billion iPhones globally
-    since its introduction in 2007, bringing in billions of dollars for the business. This achievement can
-    be partially due to Steve Jobs' outstanding leadership, who established the project's goal and course
-    and motivated his staff to produce outstanding results (Barboza, 2016).
-</p>
-<img src="images/image1.jpg" alt="Image 1">
-<div class="img-heading">Image 1</div>
-<div class="img-credits">(Source: Statista, 2023)</div>
-<img src="images/image2.jpg" alt="Image 2">
-<div class="img-heading">Image 2</div>
-<div class="img-credits">(Source: Statista, 2023)</div>
-<p>Elon Musk's Tesla is just another case in point. The world's move to sustainable energy is something that
-    Tesla wants to hasten. Musk established high standards for the business, including the creation of
-    inexpensive electric automobiles and the expansion of renewable energy sources. This vision gave Tesla's
-    projects a distinct direction, directing their efforts towards developing ground-breaking and
-    sustainable goods.</p>
-<p>
-    The results of the market show how Tesla's leadership has affected it. By 2021, Tesla will have a market
-    value of over $800 billion, making it the biggest automaker worldwide. Elon Musk's unambiguous strategy
-    and management, which enabled Tesla to distinguish itself from competitors and pioneer the change to
-    electric transportation, can be credited with the company's success in establishing a marketplace for
-    electric automobiles.
-</p>
-<img src="images/image3.jpg" alt="Image 3">
-<div class="img-heading">Image 3</div>
-<div class="img-credits">(Source: Statista, 2023)</div>
-<img src="images/image4.jpg" alt="Image 4">
-<div class="img-heading">Image 4</div>
-<div class="img-credits">(Source: Statista, 2023)</div>
-<p>In both of these cases, effective leadership gave an unmistakable goal and guidance that directed the
-    project teams' efforts in the direction of attaining outstanding results. These leaders fostered a sense
-    of unity and dedication among their teams by clearly communicating their vision to them. Project
-    managers must ensure that everyone on the team collaborate towards the same goal to avoid confusion and
-    increase overall project success. A shared sense of goal and path is essential.</p>
-<p>
-    Offering an unambiguous plan as well as guidance for the project, leadership is crucial to the success
-    of project management. Project teams may achieve amazing achievements with the help of strong
-    leadership, as seen by examples from businesses like Apple and Tesla. These leaders encourage their
-    subordinates to work together for a single goal, set high standards for themselves, and express their
-    vision clearly. The success rates attained by these businesses provide as more evidence of the need of
-    successful management in management of projects. The likelihood of attaining the desired results is
-    increased when leaders establish a project environment that is cohesive and concentrated.
-</p>`, `<h3>Team Motivation and Engagement</h3>
-<p>Having a strong sense of direction is crucial for inspiring and involving project teams. In order to
-    maximise productivity, a great leader knows how to use the strengths and shortcomings of the team
-    members. They stimulate teamwork, foster a sense of accountability and responsibility among team
-    members, and they generate a healthy work atmosphere. Leaders encourage teammates to go further than
-    their allocated work by offering direction, encouragement, and acknowledgment. This encourages higher
-    levels of dedication and productivity. Teams may turn into disconnected, discouraged and unable to
-    produce good project outputs in the absence of strong leadership (Kendra Cherry, 2023).</p>
-<p>
-    Effective leadership is essential for inspiring and involving project teams, which boosts productivity
-    and produces positive project outcomes. Each team member has specific skills and weaknesses, and a great
-    leader is aware of this and makes use of it to maximise each person's contribution to the team. Leaders
-    motivate colleagues to go beyond the scope of their allocated tasks by developing a pleasant work
-    environment, promoting teamwork, and cultivating a feeling of accountability and ownership.</p>
-<p>
-    Google is one business that has become a leader in fostering team engagement and drive. A large part of
-    Google's reputation for having creative and motivated workers can be ascribed to their leadership
-    techniques. Offering employees a high level of freedom and autonomy in their job is one of Google's
-    primary strategies. Employees are encouraged to take chances, be imaginative, and offer the team their
-    finest ideas thanks to this sense of responsibility and trust. Google has so repeatedly been at the
-    cutting edge of development (Duhigg, 2016).</p>
-<p>
-    Google also places a strong emphasis on cooperation and teamwork. They design open-plan offices
-    environments and offer numerous chances for workers to interact and exchange ideas. This promotes
-    cross-functional cooperation and aids in dismantling silos, which increases team creativity and
-    problem-solving skills.</p>
-<p>
-    The influence of strong leadership on team engagement and motivation is supported by statistics. Teams
-    headed by extremely involved leadership are 17% greater in efficiency and 21% more profitable, per a
-    Gallup survey. According to results of another survey conducted by Dale Carnegie Training, 70% of
-    workers that have an elevated degree of confidence in their leaders are motivated to do their jobs.
-    These figures demonstrate the link between good leadership and successful team performance (Home 2023).
-</p>
+let blogContent = [`
+<div class="content-row">
+<div class="content-column">
+    <h3>Introduction</h3>
+    <p>Project management efforts must be successfully led in order to succeed. By offering concise goals and
+        orientation, inspiring and involving team members, and skillfully risk management and problem-solving,
+        effective management prepares team members for success. In order to better understand how leadership
+        affects project management success, this paper uses case studies from businesses like Apple, Tesla,
+        Google, and SpaceX (Martins, 2022).</p>
+    <p>
+        The significance of goals and objectives is the first topic tackled. A project's goals and objectives
+        are established by strong leaders, who then communicate effectively them to the team and direct
+        everyone's efforts towards a single goal. Examples from companies like Apple and Tesla demonstrate how
+        innovative managers like the late Steve Jobs and Elon Musk establish challenging goals and motivate
+        their staff to produce outstanding results.</p>
+    <p>
+        The second part is concerned with team involvement and commitment. Successful managers of teams build a
+        supportive work atmosphere that encourages cooperation, ownership, and accountability by being aware of
+        the team members' abilities and shortcomings. Good team motivating techniques are used by businesses
+        like Google and L'Oréal, which boost output and profitability (Tannenbaum & Salas, 2020).</p>
+    <p>
+        The third component examines the function of management in risk control and issue resolution. To
+        guarantee project success, skilled leaders foresee potential risks, create backup plans, and handle
+        tricky situations. Under Elon Musk's direction, SpaceX exhibits outstanding risk administration and
+        problem-solving skills in the space sector.</p>
+    <p>
+        This research emphasises the value of solid management in managing projects by examining these factors.
+        Organisations that prioritise leadership development and put effective policies into place can help
+        their teams reach their maximum potential, leading to successful project outputs and success in the
+        marketplace.
+    </p>
+</div>
+<div class="content-column">
+    <img src="images/image1.jpg" alt="Image 1">
+    <div class="img-heading">Image 1</div>
+    <div class="img-credits">(Source: Statista, 2023)</div>
+</div>
+</div>
+<div class="content-row">
+<div class="content-column">
+    <img src="images/image2.jpg" alt="Image 2">
+    <div class="img-heading">Image 2</div>
+    <div class="img-credits">(Source: Statista, 2023)</div>
+</div>
+<div class="content-column">
+    <h3>Vision and Direction</h3>
+    <p>By establishing an unambiguous goal and direction for the project, leadership plays an essential part in
+        project management success. The overarching project goals and objectives are established by a competent
+        leader, who also effectively conveys them to the project team. This unity of purpose ensures that all
+        team members contribute towards the same objective and helps to align their efforts. Without effective
+        leadership, projects may become disorganised, lack direction, and struggle to produce the desired
+        results (Project-Management.com, 2023).</p>
+    <p>
+        Leadership is crucial to the success of project management because it establishes a clear vision and
+        course for the undertaking. The overarching project goals and objectives are established by a competent
+        leader, who also effectively conveys for them to the project's team. This unity of purpose ensures that
+        all team members contribute towards the same objective and helps to align their efforts. Without
+        effective leadership, organisations can grow disorganised, lack orientation, and struggle to produce the
+        desired results.</p>
+    <p>
+        Apple Inc. is one instance of a business that has displayed good leadership in project management. Apple
+        started working on the iPhone under Steve Jobs' direction, and the device completely changed the mobile
+        phone market. Jobs had a distinct vision for a device that merged a mobile phone, musical player, and
+        internet-connected device into a beautiful and simple-to-use one. The project team's efforts were
+        directed by this vision in the aim of developing a groundbreaking technology (How Apple is organized for
+        Innovation, 2023).</p>
+    <p>
+        The figures demonstrate the iPhone's popularity. Apple is selling over 2.2 billion iPhones globally
+        since its introduction in 2007, bringing in billions of dollars for the business. This achievement can
+        be partially due to Steve Jobs' outstanding leadership, who established the project's goal and course
+        and motivated his staff to produce outstanding results (Barboza, 2016).
+    </p>
+</div>
+</div>
+<div class="content-row">
+<div class="content-column">
+    <p>Elon Musk's Tesla is just another case in point. The world's move to sustainable energy is something that
+        Tesla wants to hasten. Musk established high standards for the business, including the creation of
+        inexpensive electric automobiles and the expansion of renewable energy sources. This vision gave Tesla's
+        projects a distinct direction, directing their efforts towards developing ground-breaking and
+        sustainable goods.</p>
+    <p>
+        The results of the market show how Tesla's leadership has affected it. By 2021, Tesla will have a market
+        value of over $800 billion, making it the biggest automaker worldwide. Elon Musk's unambiguous strategy
+        and management, which enabled Tesla to distinguish itself from competitors and pioneer the change to
+        electric transportation, can be credited with the company's success in establishing a marketplace for
+        electric automobiles.
+    </p>
+</div>
+<div class="content-column">
+    <img src="images/image3.jpg" alt="Image 3">
+    <div class="img-heading">Image 3</div>
+    <div class="img-credits">(Source: Statista, 2023)</div>
+</div>
+</div>
+<div class="content-row">
+<div class="content-column">
+    <img src="images/image4.jpg" alt="Image 4">
+    <div class="img-heading">Image 4</div>
+    <div class="img-credits">(Source: Statista, 2023)</div>
+</div>
+<div class="content-column">
+    <p>In both of these cases, effective leadership gave an unmistakable goal and guidance that directed the
+        project teams' efforts in the direction of attaining outstanding results. These leaders fostered a sense
+        of unity and dedication among their teams by clearly communicating their vision to them. Project
+        managers must ensure that everyone on the team collaborate towards the same goal to avoid confusion and
+        increase overall project success. A shared sense of goal and path is essential.</p>
+    <p>
+        Offering an unambiguous plan as well as guidance for the project, leadership is crucial to the success
+        of project management. Project teams may achieve amazing achievements with the help of strong
+        leadership, as seen by examples from businesses like Apple and Tesla. These leaders encourage their
+        subordinates to work together for a single goal, set high standards for themselves, and express their
+        vision clearly. The success rates attained by these businesses provide as more evidence of the need of
+        successful management in management of projects. The likelihood of attaining the desired results is
+        increased when leaders establish a project environment that is cohesive and concentrated.
+    </p>
+</div>
+</div>
+<div class="video-container">
+<iframe class="responsive-iframe" src="https://www.youtube.com/embed/qlhQlPaw_Dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>`
+, `
+<div class="content-row">
+<div class="content-column">
+    <h3>Team Motivation and Engagement</h3>
+    <p>Having a strong sense of direction is crucial for inspiring and involving project teams. In order to
+        maximise productivity, a great leader knows how to use the strengths and shortcomings of the team
+        members. They stimulate teamwork, foster a sense of accountability and responsibility among team
+        members, and they generate a healthy work atmosphere. Leaders encourage teammates to go further than
+        their allocated work by offering direction, encouragement, and acknowledgment. This encourages higher
+        levels of dedication and productivity. Teams may turn into disconnected, discouraged and unable to
+        produce good project outputs in the absence of strong leadership (Kendra Cherry, 2023).</p>
+    <p>
+        Effective leadership is essential for inspiring and involving project teams, which boosts productivity
+        and produces positive project outcomes. Each team member has specific skills and weaknesses, and a great
+        leader is aware of this and makes use of it to maximise each person's contribution to the team. Leaders
+        motivate colleagues to go beyond the scope of their allocated tasks by developing a pleasant work
+        environment, promoting teamwork, and cultivating a feeling of accountability and ownership.</p>
+    <p>
+        Google is one business that has become a leader in fostering team engagement and drive. A large part of
+        Google's reputation for having creative and motivated workers can be ascribed to their leadership
+        techniques. Offering employees a high level of freedom and autonomy in their job is one of Google's
+        primary strategies. Employees are encouraged to take chances, be imaginative, and offer the team their
+        finest ideas thanks to this sense of responsibility and trust. Google has so repeatedly been at the
+        cutting edge of development (Duhigg, 2016).</p>
+    <p>
+        Google also places a strong emphasis on cooperation and teamwork. They design open-plan offices
+        environments and offer numerous chances for workers to interact and exchange ideas. This promotes
+        cross-functional cooperation and aids in dismantling silos, which increases team creativity and
+        problem-solving skills.</p>
+    <p>
+        The influence of strong leadership on team engagement and motivation is supported by statistics. Teams
+        headed by extremely involved leadership are 17% greater in efficiency and 21% more profitable, per a
+        Gallup survey. According to results of another survey conducted by Dale Carnegie Training, 70% of
+        workers that have an elevated degree of confidence in their leaders are motivated to do their jobs.
+        These figures demonstrate the link between good leadership and successful team performance (Home 2023).
+    </p>
+</div>
+</div>
+<div class="content-row">
+<div class="content-column">
 <img src="images/image5.jpg" alt="Image 5">
 <div class="img-heading">Image 5</div>
 <div class="img-credits">(Source: Performance, 2023)</div>
+</div>
+<div class="content-column">
 <p>The leadership approach used by the cosmetics giant L'Oréal is another illustration from real life.
     L'Oréal focuses on giving their teams specific objectives and goals to make sure that each employee is
     aware of their contribution to realising the company's vision. Team members feel a sense of commitment
@@ -141,7 +180,9 @@ let blogContent = [`<h3>Introduction</h3>
     has a major impact on team output and profitability. Companies can unleash the full extent of their
     employees and promote effective project outcomes by prioritising team drive and involvement and putting
     money into developing managers.
-</p>`, `<h3>Risk Management and Problem Solving</h3>
+</p>
+</div>
+</div>`, `<h3>Risk Management and Problem Solving</h3>
 <p>In order to manage project risks and solve issues that develop during the project lifetime, leadership is
     essential. A smart project manager foresees potential hazards, creates backup plans, and makes sure the
     team is equipped to handle them. They can be active in risk identification and mitigation, rapid
@@ -256,10 +297,16 @@ let blogContent = [`<h3>Introduction</h3>
     </li>
 </ul>`]
 
+// Function to load the blogContent array element whose index matches the text within the current tag in index.html.
 window.onload = function () {
     displayContent(parseInt(document.getElementById("current").textContent));
 };
 
+// Navigation to next page.
+// We increase the currentPage variable by one and update the current tag's inner text.
+// We run the displayContent function for the present currentPage.
+// Then scroll to top by default using the scrollToTop function.
+// If currentPage value >= 5, we return null and stay on the same page.
 function nextPage() {
     let currentPage = parseInt(document.getElementById("current").textContent)
     currentPage++
@@ -268,6 +315,11 @@ function nextPage() {
     scrollToTop()
 }
 
+// Navigation to previous page
+// We decrease the currentPage variable by one similar to the previous function.
+// Run the displayContent function for present currentPage.
+// Scroll to top by default.
+// If currentPage<=0 we return null and stay on the same page.
 function previousPage() {
     let currentPage = parseInt(document.getElementById("current").textContent)
     currentPage--
@@ -276,10 +328,12 @@ function previousPage() {
     scrollToTop()
 }
 
+// We inject the element of the blogContent array whose index is one less than the current tag's innerText to the html body.
 function displayContent(currentPage) {
     currentPage - 1 >= 0 && currentPage <= blogContent.length ? document.getElementById("content").innerHTML = blogContent[currentPage - 1] : null
 }
 
+// Function for scrolling to top in the window.
 function scrollToTop() {
     window.scrollTo({
         top: 0,

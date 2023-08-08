@@ -12,21 +12,23 @@ img {
   margin: 0;
   padding: 0;
 }
-
+body{
+  background-color: #efefef;
+}
 header {
-  background-color: #f2f2f2;
+  background-color: #252424;
   padding: 20px;
   text-align: center;
+  margin-bottom: 40px;
 }
 
 h1 {
-  font-size: 28px;
-  color: #333;
+  font-size: 36px;
+  color: #e0e0e0;
 }
 
 main {
-  padding: 20px;
-  background-color: #8be8cb;
+  padding: 20px 5em;
 }
 
 article {
@@ -34,25 +36,27 @@ article {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 40px;
   margin-bottom: 10px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 32px;
   margin-top: 20px;
   margin-bottom: 10px;
+  color: #8b1003;
 }
 
 p {
+  font-size: 16px;
   margin-bottom: 10px;
 }
 
 img {
   display: block;
   margin: 0 auto;
-  max-width: 400px;
   height: auto;
+  max-width: 450px;
   margin-bottom: 15px;
 }
 
@@ -79,33 +83,69 @@ img {
   font-weight: bold;
   text-align: center;
   text-decoration: none;
-  background-color: whitesmoke;
-  border: 2px solid black;
+  background-color: #252424;
+  color: #efefef;
+  border: none;
   margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
 }
 
 footer {
-  background-color: #f2f2f2;
-  padding: 20px;
+  background-image: linear-gradient(to left bottom, #d3f6f9, #b5ecff, #aedbff, #c9c4ff, #f2a6f4);
+  padding: 10px;
   text-align: center;
   display: flex;
   align-items: center;
+  margin-top: 30px;
+}
+
+.share{
+  width: 100%;
+  display: flex;
+  justify-content: center;
   flex-direction: column;
+  gap: 10px;
 }
-
-.share,
-.about {
-  margin-bottom: 20px;
-  width: 80%;
+.video-container{
+  width: 100%;
+  padding-top: 56.25%;
+  position: relative;
+  overflow: hidden;
+  margin: 2em 0;
 }
-
+.responsive-iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
 .social-icons {
   display: flex;
   justify-content: center;
 }
-
+#current{
+  font-size: 18px;
+  color: #8b1003;
+  font-weight: 600;
+}
 .social-icon {
   margin: 0 5px;
+}
+.content-row{
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+  grid-row-gap: 1rem;
+  margin: 2rem 0;
+}
+.content-column{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 @media only screen and (max-width: 600px) {
@@ -132,6 +172,9 @@ footer {
 
   .social-icon {
     margin: 0 3px;
+  }
+  main{
+    padding: 20px;
   }
 }
 
